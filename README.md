@@ -1,4 +1,5 @@
-﻿# MedicationNotebook
+﻿# MedicationNotebook_ 행복 (행복한 복약생활 앱)
+
 
 
 2022학술제 작품(AI.SW Festival SW중심사업단장 우수상 수상)
